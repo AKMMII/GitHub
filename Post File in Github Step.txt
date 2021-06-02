@@ -1,0 +1,15 @@
+step 1:git init
+step 2:git add .
+step 3:git commit -m "First name"
+step 4:git status
+step 5:git remote add origin url(ssh)
+step 6:git push origin master
+step 7:git push -f origin master
+
+Note: If origin master already exists Use:
+	git remote set-url origin url(ssh)
+
+
+git push -u origin main
+
+
