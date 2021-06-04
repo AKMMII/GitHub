@@ -9,7 +9,6 @@ step 7:git push -f origin master
 Note: If origin master already exists Use:
 	git remote set-url origin url(ssh)
 
-
-git push -u origin main
+        #git push -u origin main (If Your Master Branch Shows Some error use main branch)
 
 
